@@ -89,10 +89,10 @@ justify-content: center;margin-bottom: -32px">
 
 #### 🗂️ Meus repositórios principais:
 <a href="https://github.com/arthurgalanti/BALTA.IO_Web_ASPNET6">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arthurgalanti&repo=BALTA.IO_Web_ASPNET6" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arthurgalanti&repo=BALTA.IO_Web_ASPNET6&&theme=dark" />
 </a>
 <a href="https://github.com/arthurgalanti/PROJETO_MeuDim">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arthurgalanti&repo=PROJETO_MeuDim" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arthurgalanti&repo=PROJETO_MeuDim&&theme=dark" />
 </a>
 
 #### <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30" style="vertical-align: middle;"> Minhas estatísticas do GitHub: 
