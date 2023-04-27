@@ -1,7 +1,4 @@
-<div>
-	<h4 style="display: inline;">Olá Mundo! Pode me chamar de Galanti</h4>
-    <img class="paragraph-icon" src="https://em-content.zobj.net/source/skype/289/man-technologist_1f468-200d-1f4bb.png" width="30" style="vertical-align: middle;">
-</div>
+#### Olá Mundo! Pode me chamar de Galanti <img class="paragraph-icon" src="https://em-content.zobj.net/source/skype/289/man-technologist_1f468-200d-1f4bb.png" width="30" style="vertical-align: middle;">
 
 Futuro Desenvolvedor Full Stack cursando Análise e Desenvolvimento de Sistemas na FATEC, apaixonado por resolver problemas!
 
@@ -26,11 +23,14 @@ Futuro Desenvolvedor Full Stack cursando Análise e Desenvolvimento de Sistemas 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-%231A9A7A?style=flat-square&labelColor=%23414141&logo=openai&logoColor=white)
 
 #### 🌱 Estou estudando atualmente:
-  ![TypeScript](https://img.shields.io/badge/TypeScript-%232F74C0?style=flat-square&labelColor=%23414141&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-%23DE3641?style=flat-square&labelColor=%23414141&logo=angular&logoColor=white)
-  
-  <img src="https://baltaio.blob.core.windows.net/static/images/icons/favicon.ico?v1" width="23"><a href="https://balta.io/"><b>Balta.io</b></a>
-  
-<img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81qoi4mVlAUf1bs-3LOQdrSe0s0PJE0V8ifSxkFfaK_LFqZbysqpqF5z0TMOhME75_DHi5xSEhM_K29tta6SotCJR6QJGA=w1920-h937" width="30"><b>Inglês</b>
+<div style="vertical-align: middle;">
+  <img src="https://baltaio.blob.core.windows.net/static/images/icons/favicon.ico?v1" width="23" class="paragraph-icon"><a href="https://balta.io/"><b>Balta.io</b></a><img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81qoi4mVlAUf1bs-3LOQdrSe0s0PJE0V8ifSxkFfaK_LFqZbysqpqF5z0TMOhME75_DHi5xSEhM_K29tta6SotCJR6QJGA=w1920-h937" width="30" class="paragraph-icon"><b>Inglês</b></div>
+ 
+![TypeScript](https://img.shields.io/badge/TypeScript-%232F74C0?style=flat-square&labelColor=%23414141&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23EFD81D?style=flat-square&labelColor=%23414141&logo=javascript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-%23DE3641?style=flat-square&labelColor=%23414141&logo=angular&logoColor=white)
+
+
 
 #### 📫 Você pode me encontrar em:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230A66C2?style=flat-square&labelColor=%230A66C2&logo=linkedin&logoColor=black&link=https://www.linkedin.com/in/arthurgalanti/)](https://www.linkedin.com/in/arthurgalanti/)
@@ -55,14 +55,9 @@ Futuro Desenvolvedor Full Stack cursando Análise e Desenvolvimento de Sistemas 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arthurgalanti&repo=PROJETO_MeuDim" />
 </a>
 
-<div>
-    <img class="paragraph-icon" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="35" style="vertical-align: middle;">
-    <h4 style="display: inline;">Minhas estatísticas do GitHub:</h4>
-</div>
-
+#### <img class="paragraph-icon" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30" style="vertical-align: middle;"> Minhas estatísticas do GitHub: 
 [![Linguagens](https://github-readme-stats.vercel.app/api?username=arthurgalanti&show_icons=true&locale=pt-BR&&theme=dark)](https://github.com/arthurgalanti)
 [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurgalanti&layout=compact&locale=pt-BR&&theme=dark)](https://github.com/arthurgalanti)
 
 #
 Tenho um canal no YouTube, atualmente sem nenhum vídeo, mas pretendo começar a publicar vídeos sobre programação, lógica e algoritmos.
-
