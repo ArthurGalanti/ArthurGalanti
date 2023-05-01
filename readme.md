@@ -2,7 +2,7 @@
 
 Futuro Desenvolvedor Full Stack cursando Análise e Desenvolvimento de Sistemas na FATEC, apaixonado por resolver problemas!
 
-<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Farthurgalanti"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Farthurgalanti&label=Visitantes%20(T%2FD)&labelColor=%235b187e&countColor=%235b187e&labelStyle=upper" /></a>
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Farthurgalanti"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Farthurgalanti&label=Visitantes%20(D%2FT)&labelColor=%235b187e&countColor=%235b187e&labelStyle=upper" /></a>
 
 <div style="width: max-content;">
 
