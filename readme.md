@@ -25,14 +25,12 @@ Futuro Desenvolvedor Full Stack cursando Análise e Desenvolvimento de Sistemas 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-%231A9A7A?style=flat-square&labelColor=%23414141&logo=openai&logoColor=white)</div></div>
 
 #### 🌱 Estou estudando atualmente:
-
-<div style="display:inline-block;">
-<div style="display:inline-grid; width:24px; height:20px; background-color: #414141; justify-content:center; align-items:center; margin-right: -4px; padding-top:2px; align-itens:center">
-<img src="https://raw.githubusercontent.com/arthurgalanti/arthurgalanti/main/assets/bubble.png" style="width: 14px; height: 14px; background-color: #414141; padding-bottom: 4px"></div>
-<img src="https://img.shields.io/badge/Ingles-%2300CC00?style=flat-square&labelColor=%23414141logoColor=white" /></div>
+<div>
 <img src="https://img.shields.io/badge/TypeScript-%232F74C0?style=flat-square&labelColor=%23414141&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-%23EFD81D?style=flat-square&labelColor=%23414141&logo=javascript&logoColor=white" />
 <img src="https://img.shields.io/badge/Angular-%23DE3641?style=flat-square&labelColor=%23414141&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/Inglês-%2300A86B?style=flat-square&labelColor=%23414141logoColor=white" />
+</div>
 
 #### 📫 Você pode me encontrar em:
 
@@ -47,7 +45,7 @@ Futuro Desenvolvedor Full Stack cursando Análise e Desenvolvimento de Sistemas 
   	<img align="center" src="https://galanti.dev/src/logo.png" width="150" />
   	</a>
 </div>
-	<p><b>Em desenvolvimento</b>⚠️</p>
+	<p><strong>Em desenvolvimento</strong>⚠️</p>
 
 #### 🗂️ Meus repositórios principais:
 <a href="https://github.com/arthurgalanti/BALTA.IO_Web_ASPNET6">
