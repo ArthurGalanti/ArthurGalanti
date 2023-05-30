@@ -8,84 +8,46 @@ Futuro Desenvolvedor Full Stack cursando Análise e Desenvolvimento de Sistemas 
 
 #### 👨‍💻 Linguagens - Frameworks - Tecnologias - Ferramentas  🛠
 
-<div style="display: flex;
-justify-content: center; margin-bottom: -32px">
-
 ![Csharp](https://img.shields.io/badge/CSharp-%23934B8E?style=flat-square&labelColor=%23414141&logo=csharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%232F74C0?style=flat-square&labelColor=%23414141&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23EFD81D?style=flat-square&labelColor=%23414141&logo=javascript&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%232AAEE9?style=flat-square&labelColor=%23414141&logo=dart&logoColor=white)</div>
 
-<div style="display: flex;
-justify-content: center; margin-bottom: -32px">
-
 ![dotNet](https://img.shields.io/badge/.NET-%23631F74?style=flat-square&labelColor=%23414141&logo=dotnet&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-%23DE3641?style=flat-square&labelColor=%23414141&logo=angular&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%23055595?style=flat-square&labelColor=%23414141&logo=flutter&logoColor=white)</div>
 
-<div style="display: flex;
-justify-content: center; margin-bottom: -32px">
-
 ![SQLServer](https://img.shields.io/badge/SQLServer-%23DB2A20.svg?style=flat-square&labelColor=%23414141&logo=microsoftsqlserver&logoColor=white)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&labelColor=%23414141&logo=postgresql&logoColor=white)</div>
-
-<div style="display: flex;
-justify-content: center; margin-bottom: -32px">
 
 ![Rider](https://img.shields.io/badge/Rider-%23000?style=flat-square&labelColor=%23414141&logo=rider&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%232D9EEA?style=flat-square&labelColor=%23414141&logo=visual-studio-code&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-%231A9A7A?style=flat-square&labelColor=%23414141&logo=openai&logoColor=white)</div></div>
 
-<div style="width: max-content;">
-
 #### 🌱 Estou estudando atualmente:
 
-<div style="display: flex; justify-content: center;">
-  <img src="https://baltaio.blob.core.windows.net/static/images/icons/favicon.ico?v1" width="25">
-  <a href="https://balta.io/"><b>Balta.io</b></a>
-  <div style="margin: 0px 5px"></div> 
-  <img src="https://raw.githubusercontent.com/arthurgalanti/arthurgalanti/main/assets/bubble.png" width="25">
-  <b>Inglês</b>
- </div>
-
-<div style="display: flex;
-justify-content: center; margin-bottom: -32px">
-
-![TypeScript](https://img.shields.io/badge/TypeScript-%232F74C0?style=flat-square&labelColor=%23414141&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23EFD81D?style=flat-square&labelColor=%23414141&logo=javascript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-%23DE3641?style=flat-square&labelColor=%23414141&logo=angular&logoColor=white)
-</div></div>
-
-<div style="width: max-content;">
+<div style="display:inline-block;">
+<div style="display:inline-grid; width:24px; height:20px; background-color: #414141; justify-content:center; align-items:center; margin-right: -4px; padding-top:2px; align-itens:center">
+<img src="https://raw.githubusercontent.com/arthurgalanti/arthurgalanti/main/assets/bubble.png" style="width: 14px; height: 14px; background-color: #414141; padding-bottom: 4px"></div>
+<img src="https://img.shields.io/badge/Ingles-%2300CC00?style=flat-square&labelColor=%23414141logoColor=white" /></div>
+<img src="https://img.shields.io/badge/TypeScript-%232F74C0?style=flat-square&labelColor=%23414141&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-%23EFD81D?style=flat-square&labelColor=%23414141&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/Angular-%23DE3641?style=flat-square&labelColor=%23414141&logo=angular&logoColor=white" />
 
 #### 📫 Você pode me encontrar em:
-<div style="display: flex;
-justify-content: center; margin-bottom: -32px">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230A66C2?style=flat-square&labelColor=%230A66C2&logo=linkedin&logoColor=black&link=https://www.linkedin.com/in/arthurgalanti/)](https://www.linkedin.com/in/arthurgalanti/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=black&link=https://twitter.com/galantidev)](https://twitter.com/galantidev)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=black&link=https://www.youtube.com/@galantidev)](https://www.youtube.com/@galantidev)</div>
-<div style="display: flex;
-justify-content: center; margin-bottom: -32px">
-
-[![Outlook](https://img.shields.io/badge/arthur.galanti@hotmail.com-%230078D4.svg?style=flat-square&logo=microsoftoutlook&logoColor=black&link=mailto:arthur.galanti@hotmail.com)](mailto:arthur.galanti@hotmail.com)</div></div>
-
-
-<div style="width: max-content;">
+[![Outlook](https://img.shields.io/badge/arthur.galanti@hotmail.com-%230078D4.svg?style=flat-square&logo=microsoftoutlook&logoColor=black&link=mailto:arthur.galanti@hotmail.com)](mailto:arthur.galanti@hotmail.com)
 
 #### 🌐 Meu blog pessoal:
-
-<div style="display: flex;
-justify-content: center;">
+<div >
 	<a href="https://galanti.dev/">
   	<img align="center" src="https://galanti.dev/src/logo.png" width="150" />
   	</a>
 </div>
-<div style="display: flex;
-justify-content: center;margin-bottom: -32px">
 	<p><b>Em desenvolvimento</b>⚠️</p>
-</div>
-</div>
 
 #### 🗂️ Meus repositórios principais:
 <a href="https://github.com/arthurgalanti/BALTA.IO_Web_ASPNET6">
