@@ -2,7 +2,7 @@
 
 Futuro Desenvolvedor Full Stack cursando Análise e Desenvolvimento de Sistemas na FATEC, apaixonado por resolver problemas!
 
-<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Farthurgalanti"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Farthurgalanti&label=Visitantes%20(D%2FT)&labelColor=%235b187e&countColor=%235b187e&labelStyle=upper" /></a>
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Farthurgalanti"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Farthurgalanti&label=Visitantes%20(Today%2FTotal)&labelColor=%235b187e&countColor=%235b187e&labelStyle=upper" /></a>
 
 <div style="width: max-content;">
 
@@ -46,10 +46,10 @@ Futuro Desenvolvedor Full Stack cursando Análise e Desenvolvimento de Sistemas 
 
 #### 🗂️ Meus repositórios principais:
 <a href="https://github.com/arthurgalanti/BALTA.IO_Web_ASPNET6">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arthurgalanti&repo=BALTA.IO_Web_ASPNET6&&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arthurgalanti&repo=WebAPI_ASP.NET6&&theme=dark" />
 </a>
 <a href="https://github.com/arthurgalanti/PROJETO_MeuDim">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arthurgalanti&repo=PROJETO_MeuDim&&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arthurgalanti&repo=MeuDim&&theme=dark" />
 </a>
 
 #### <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30" style="vertical-align: middle;"> Minhas estatísticas do GitHub: 
