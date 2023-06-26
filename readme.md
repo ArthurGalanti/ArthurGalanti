@@ -46,7 +46,7 @@ Futuro Desenvolvedor Full Stack cursando Análise e Desenvolvimento de Sistemas 
 
 #### 🗂️ Meus repositórios principais:
 <a href="https://github.com/arthurgalanti/shopflix">
-  <img align="center" src="" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arthurgalanti&repo=shopflix&&theme=dark" />
 </a>
 <a href="https://github.com/arthurgalanti/TodoAppAPI">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arthurgalanti&repo=TodoAppAPI&&theme=dark" />
