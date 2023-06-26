@@ -65,4 +65,3 @@ Futuro Desenvolvedor Full Stack cursando Análise e Desenvolvimento de Sistemas 
 [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurgalanti&layout=compact&locale=pt-BR&&theme=dark)](https://github.com/arthurgalanti?tab=repositories)
 
 #
-Tenho um canal no YouTube, atualmente sem nenhum vídeo, mas pretendo começar a publicar vídeos sobre programação, lógica e algoritmos.
