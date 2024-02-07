@@ -1,7 +1,6 @@
-#### Olá Mundo! Pode me chamar de Galanti <img src="https://raw.githubusercontent.com/arthurgalanti/arthurgalanti/main/assets/man-technologist.gif" width="30" style="vertical-align: middle;">
-
-Futuro Desenvolvedor Full Stack cursando Análise e Desenvolvimento de Sistemas na FATEC, apaixonado por resolver problemas!
-
+#### Olá Mundo! 
+<img src="https://raw.githubusercontent.com/arthurgalanti/arthurgalanti/main/assets/man-technologist.gif" width="100" style="vertical-align: middle;">
+Desenvolvedor Back-end .NET, aluno de ADS da FATEC-RP e apaixonado por sistemas e tecnologia! 🖥️
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Farthurgalanti"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Farthurgalanti&label=Visitantes%20(HOJE%2FTotal)&labelColor=%235b187e&countColor=%235b187e&labelStyle=upper" /></a>
 
 <div style="width: max-content;">
@@ -16,9 +15,11 @@ Futuro Desenvolvedor Full Stack cursando Análise e Desenvolvimento de Sistemas 
 ![Flutter](https://img.shields.io/badge/Flutter-%23055595?style=flat-square&labelColor=%23414141&logo=flutter&logoColor=white)</div>
 
 ![SQLServer](https://img.shields.io/badge/SQLServer-%23DB2A20.svg?style=flat-square&labelColor=%23414141&logo=microsoftsqlserver&logoColor=white)
-![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&labelColor=%23414141&logo=postgresql&logoColor=white)</div>
+![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&labelColor=%23414141&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2307AB4F?style=flat-square&labelColor=%23414141&logo=mongodb&logoColor=white)</div>
 
 ![Rider](https://img.shields.io/badge/Rider-%23000?style=flat-square&labelColor=%23414141&logo=rider&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%23a67adc?style=flat-square&labelColor=%23414141&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%232D9EEA?style=flat-square&labelColor=%23414141&logo=visual-studio-code&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-%231A9A7A?style=flat-square&labelColor=%23414141&logo=openai&logoColor=white)</div></div>
 
@@ -36,13 +37,9 @@ Futuro Desenvolvedor Full Stack cursando Análise e Desenvolvimento de Sistemas 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=black&link=https://www.youtube.com/@galantidev)](https://www.youtube.com/@galantidev)</div>
 [![Outlook](https://img.shields.io/badge/arthur.galanti@hotmail.com-%230078D4.svg?style=flat-square&logo=microsoftoutlook&logoColor=black&link=mailto:arthur.galanti@hotmail.com)](mailto:arthur.galanti@hotmail.com)
 
-#### 🌐 Meu blog pessoal:
-<div >
-	<a href="https://galanti.dev/">
-  	<img align="center" src="https://galanti.dev/src/logo.png" width="150" />
-  	</a>
-</div>
-	<p><strong>Em desenvolvimento</strong>⚠️</p>
+#### 🌐 Meu portfólio:
+
+<p><strong>Em desenvolvimento!</strong>⚠️</p>
 
 #### 🗂️ Meus repositórios principais:
 <a href="https://github.com/arthurgalanti/shopflix">
